@@ -206,6 +206,7 @@
 		qcom,mdss-dsi-reset-sequence = <1 50>;
 		qcom,mdss-brightness-default-level = <208>;
 		qcom,cont-splash-enabled;
+		qcom,partial-update-enabled;
 		qcom,ulps-enabled;
 		qcom,blmap = /bits/ 8 <
 			0 0 0 0 1 1 1 1 1 1                         /* 0-9 */
